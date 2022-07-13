@@ -17,7 +17,7 @@ return CustPlugin
 ```
 
 # API
-After intalling the lib into EzLibs custom.lua, the script will run whenever a player connects.
+After installing the lib into EzLibs custom.lua, the script will run whenever a player connects.
 If the player has a checkpoint, it will transfer them to that area and xyz position for you.
 You don't have to do anything else.
 
