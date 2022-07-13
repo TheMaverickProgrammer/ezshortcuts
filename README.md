@@ -23,8 +23,10 @@ You don't have to do anything else.
 
 ### Create Checkpoint
 `ezshortcuts.create_checkpoint(player_id,x,y,z,show_checkpoint?)`
+
 If show_checkpoint is true, a bot that is exclusive to the owning player is spawned with an animation to help see the point.
 
 ### Remove Checkpoint
 `ezshortcuts.remove_checkpoint(player_id)`
+
 If this player has a checkpoint, it will remove it from EzMemory and will remove the bot (if it exists)
