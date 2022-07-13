@@ -9,7 +9,8 @@ Add to your custom.lua like so:
 ```lua
 local CustPlugin = {}
 
-local playerNaviCache = require('scripts/ezlibs-custom/player_navi_cache')
+-- local playerNaviCache = require('scripts/ezlibs-custom/player_navi_cache')
+-- other plugins ... 
 local ezshortcuts = helpers.safe_require('scripts/ezlibs-custom/ezshortcuts')
 
 return CustPlugin
